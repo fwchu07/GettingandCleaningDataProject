@@ -1,5 +1,5 @@
 ---
-title: "Codebook for Getting and Celaning Data: Human Activity Recognition Using Smartphones Dataset"
+title: "Codebook for Getting and Cleaning Data: Human Activity Recognition Using Smartphones Dataset"
 output:
   pdf_document: default
 
